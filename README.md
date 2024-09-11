@@ -1,2 +1,2 @@
-# wpp-simpleseometabox
+# advanceseometabox
 Wordpress plugin for SEO configuration 
